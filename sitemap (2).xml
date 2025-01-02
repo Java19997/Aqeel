@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Java19997/Aqeel</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/activity</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/issues</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/pulls</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/actions</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/security</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/blob/main/README.md</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/blob/main/google1687dc845a23a351%20(2).html</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/blob/main/google1687dc845a23a351.html</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/releases</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/search?q=repo%3AJava19997%2FAqeel++language%3AHTML</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels?sort=name-asc</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels?sort=name-desc</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels?sort=count-desc</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels?sort=count-asc</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels/bug</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels/documentation</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels/duplicate</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels/enhancement</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels/good%20first%20issue</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels/help%20wanted</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels/invalid</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels/question</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/labels/wontfix</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?state=open</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?state=closed</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Java19997/Aqeel/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-01-02T12:32:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
